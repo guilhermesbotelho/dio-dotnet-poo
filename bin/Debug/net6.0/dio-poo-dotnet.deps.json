@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dio-poo-dotnet/1.0.0": {
+        "runtime": {
+          "dio-poo-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dio-poo-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

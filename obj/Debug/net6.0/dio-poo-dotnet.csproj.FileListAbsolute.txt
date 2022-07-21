@@ -1,0 +1,15 @@
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\bin\Debug\net6.0\dio-poo-dotnet.exe
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\bin\Debug\net6.0\dio-poo-dotnet.deps.json
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\bin\Debug\net6.0\dio-poo-dotnet.runtimeconfig.json
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\bin\Debug\net6.0\dio-poo-dotnet.dll
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\bin\Debug\net6.0\dio-poo-dotnet.pdb
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.AssemblyInfo.cs
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.dll
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\refint\dio-poo-dotnet.dll
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.pdb
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\dio-poo-dotnet.genruntimeconfig.cache
+D:\OneDrive\Documentos\DIO\dio-poo-dotnet\obj\Debug\net6.0\ref\dio-poo-dotnet.dll
